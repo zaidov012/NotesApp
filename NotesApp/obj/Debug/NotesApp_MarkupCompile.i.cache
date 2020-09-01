@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Lenovo\source\repos\NotesApp\NotesApp\App.xaml
-11151548125
+21098317495
 3-795042068
-10-746026675
+17-663454561
 1271680541248
-MainWindow.xaml;
+View\LoginWindow.xaml;View\NotesWindow.xaml;
 
-False
+True
 
